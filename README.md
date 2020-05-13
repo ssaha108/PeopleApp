@@ -4,7 +4,7 @@ The project demonstrates consuming HttpClient API in .NET Core 3.1 Web API proje
 
 The endpoint API The [baseurl]/api/people returns Cat names categorised by their owner gender (lately realised the api could have been better named something like api/gendercats😊)
 
-# Demo Task Specification
+## Demo Task Specification
 
 http://agl-developer-test.azurewebsites.net/
 
@@ -17,8 +17,6 @@ http://agl-developer-test.azurewebsites.net/people.json
 [baseurl]/api/people
 
 The above returns Cat names categorised by their owner gender
-
-http://agl-developer-test.azurewebsites.net/people.json
 
 ## Getting Started
 
