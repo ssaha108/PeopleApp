@@ -23,7 +23,7 @@ The above returns Cat names sorted and categorised by their owner gender
 To run the project you will need:
 
 ```
-.NET CORE 3.1 Runtime
+.NET CORE 3.1 SDK/Runtime
 Angular version: 9.1.3
 ```
 
