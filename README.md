@@ -8,7 +8,15 @@ The endpoint API The [baseurl]/api/people returns Cat names categorised by their
 
 http://agl-developer-test.azurewebsites.net/
 
-# API consumed 
+## API consumed 
+
+http://agl-developer-test.azurewebsites.net/people.json
+
+## New API for client application
+
+[baseurl]/api/people
+
+The above returns Cat names categorised by their owner gender
 
 http://agl-developer-test.azurewebsites.net/people.json
 
@@ -18,7 +26,7 @@ To run the project you will need:
 .NET CORE 3.1
 Angular version: 9.1.3
 
-### Prerequisites MUST
+## Prerequisites MUST
 
 Before you run the PeopleApp-SPA client project, please ensure to update the http API URL port number to match the People.API:
 
