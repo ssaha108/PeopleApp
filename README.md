@@ -16,7 +16,7 @@ http://agl-developer-test.azurewebsites.net/people.json
 
 [baseurl]/api/people
 
-The above returns Cat names categorised by their owner gender
+The above returns Cat names sorted and categorised by their owner gender
 
 ## Getting Started
 
